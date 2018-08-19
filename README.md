@@ -1,6 +1,6 @@
 # Notes
 
-Some projects are completed via colab, so they may lack some files to work successfully.
+Some projects are completed via colab, so they may lack some files(such as checkpoints, data, etc.) to work successfully on a local machine.
 
 # Deep Learning Nanodegree Foundation
 
